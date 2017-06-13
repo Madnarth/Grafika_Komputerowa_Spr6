@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Zadanie1.cpp
+c:\users\paweł\documents\github\lab06\zadanie1\zadanie1\zadanie1.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\paweł\documents\github\lab06\zadanie1\zadanie1\zadanie1.cpp(476): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\paweł\documents\github\lab06\zadanie1\zadanie1\zadanie1.cpp(586): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paweł\documents\github\lab06\zadanie1\zadanie1\zadanie1.cpp(590): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zadanie1.vcxproj -> C:\Users\Paweł\Documents\GitHub\Lab06\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> C:\Users\Paweł\Documents\GitHub\Lab06\Zadanie1\Debug\Zadanie1.pdb (Full PDB)
